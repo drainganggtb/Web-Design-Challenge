@@ -1,0 +1,124 @@
+body {
+    position: relative;
+    background-color: rgb(240,240,240);
+    background-attachment: fixed;
+    margin:0;
+}
+
+
+/* landing page */
+#summary_box {
+    background-color:white;
+    border: 3px solid palegoldenrod;
+    width: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: auto;
+    padding: 10px 20px 15px;
+    border-radius:4px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+#visualization_box {
+    position: relative;
+    border: 3px solid palegoldenrod;
+    margin-top:50px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+    background-color:white;
+    width:400px;
+    height:420px;
+    padding: 10px 10px 100px 20px;
+    border-radius: 4px;
+}
+#max_temp_img {
+    width: 370px;
+    height: 300px;
+    float: left;
+    position: center;
+}
+
+.title {
+    color: yellowgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    padding-top: 15px;
+    padding-left: 50px;
+    font-size: 22px;
+}
+/* panel images */
+#vbar {
+    padding: 6px 6px;
+    text-decoration: none;
+    float: right;
+}
+#vbar:hover {
+    background-color: #F57C00 ;
+    border-radius: 4px;
+    padding: 4px;
+}
+#vimg {
+    width: 150px;
+    height: 120px;
+    float:right;
+    border-radius: 6px;
+}
+
+/* FOOTER
+_____________________________*/
+.footer {
+    position: fixed;
+    margin-bottom:0;
+    bottom:0;
+    left:0;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    padding-top:10px;
+    border-top-width: 5px;
+    border-top-color: lavenderblush;
+}
+#page_container {
+    position: fixed;
+}
+#copyright {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #78909C;
+}
+
+/* MEDIA QUERIES 
+________________________________________*/
+@media (max-width: 991px) {
+    #summary_box {
+        width: auto;
+        height: auto;
+        margin-top: 50px;
+        padding: 10px 20px 15px;
+    }
+
+    #visualization_box {
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-bottom: 100px;
+        width: 450px;
+        height: 400px;
+        padding: 10px 50px 12px 80px;
+    }
+    .body {
+        background-color: white;
+    }
+
+
+@media (max-width: 768px) {
+    #visualization_box {
+        width: auto;
+    }
+}
+
+
+@media (max-width: 690px) {
+    #max_temp_img {
+        width: 100% !important;
+        height: 100% !important;
+    }
+}
