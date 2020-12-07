@@ -57,6 +57,9 @@ input {
     color: white;
     margin-left: 60px;
 }
+#navtacular {
+    padding-right: 40px;
+}
 /* landing page */
 #summary_box {
     background-color:white;
@@ -89,12 +92,11 @@ input {
 }
 
 .title {
-    color: yellowgreen;
+    color:#827717;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
     padding-top: 15px;
-    padding-left: 50px;
-    font-size: 22px;
+    font-size: 28px;
 }
 /* panel images */
 #vbar {
@@ -112,6 +114,25 @@ input {
     height: 120px;
     float:right;
     border-radius: 6px;
+}
+#comp_bar {
+    position: center;
+    text-decoration: none;
+}
+
+#comp_img {
+    width: 435px;
+    height: 300px;
+}
+#comp_bar:hover {
+    background-color:palegoldenrod;
+    border-radius: 4px;
+}
+#compbottomrow {
+    padding-bottom: 40px;
+}
+#comphr {
+    border-top: 2px dotted #827717
 }
 
 /* FOOTER
