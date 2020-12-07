@@ -179,7 +179,7 @@ ________________________________________*/
     #visualization_box {
         float:left;
         border-color: transparent;
-        
+        width: 70%;
     }
     #summary_box {
         border-color: transparent;
@@ -187,6 +187,15 @@ ________________________________________*/
     #max_temp_img {
         display: inline;
         width: 60%;
+    }
+    #vimg {
+        width: 100%;
+    }
+    .dropdown-item {
+        text-align: right;
+    }
+    #navtacular {
+        padding-right: 0px;
     }
 }
 
