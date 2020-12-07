@@ -131,6 +131,9 @@ _____________________________________________________________*/
 #comp_img {
     width: 435px;
     height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 #comp_bar:hover {
     background-color:palegoldenrod;
