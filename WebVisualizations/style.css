@@ -49,16 +49,15 @@ input {
     height: 55px;
     padding: inherit;
 }
-#btn-nvg {
-    display: flex;
+#btn-nav {
     width: 138px;
     max-height: 58px;
     cursor: pointer;
     border-radius: 4px;
-    background-color: rgb(0, 169, 167);
+    background-color:#F57C00;
     overflow: hidden;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 32px;
+    font-size: 28px;
     text-align: center;
     color: white;
     margin-left: 60px;
