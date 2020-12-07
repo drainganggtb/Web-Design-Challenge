@@ -169,27 +169,24 @@ _____________________________*/
 /* MEDIA QUERIES 
 ________________________________________*/
 @media (max-width: 991px) {
-    #summary_box {
-        width: auto;
-        height: auto;
-        margin-top: 50px;
-        padding: 10px 20px 15px;
+    body{
+        background: white;
+    }
+    #container{
+        margin: 0px;
+        width: 100%;
     }
     #visualization_box {
-        margin-left: 5%;
-        margin-right: 5%;
-        margin-bottom: 100px;
-        width: 450px;
-        height: 400px;
-        padding: 10px 50px 15px 80px;
+        float:left;
+        border-color: transparent;
+        
+    }
+    #summary_box {
+        border-color: transparent;
     }
     #max_temp_img {
-        width: 100%;
-        height: 100%;
-    }
-    #vimg {
-        width: 150px;
-        height: 120px;
+        display: inline;
+        width: 60%;
     }
 }
 
@@ -210,7 +207,6 @@ ________________________________________*/
         padding: 8px !important;
     }
 }
-
 
 @media (max-width: 690px) {
     #max_temp_img {
