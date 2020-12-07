@@ -64,6 +64,7 @@ input {
 #navtacular {
     padding-right: 40px;
 }
+
 /* INDEX/VISUALIZATION
 _____________________________________________________________*/
 #summary_box {
@@ -180,6 +181,11 @@ ________________________________________*/
         margin-bottom: 100px;
         width: 450px;
         height: 400px;
+        padding: 10px 50px 15px 80px;
+    }
+    #max_temp_img {
+        width: 100%;
+        height: 100%;
     }
     #vimg {
         width: 150px;
@@ -190,6 +196,18 @@ ________________________________________*/
 @media (max-width: 768px) {
     #visualization_box {
         width: auto;
+    }
+    #btn-nav {
+        width: auto;
+        height: auto;
+    }
+    .navbar {
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .navbar-brand {
+        padding: 8px !important;
     }
 }
 
