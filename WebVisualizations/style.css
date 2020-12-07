@@ -7,7 +7,8 @@ body {
 h3 {
     font-family: Arial, Helvetica, sans-serif;
 }
-/* Nav bar */
+/* Nav bar 
+______________________________________________________*/
 
 button {
     letter-spacing: normal;
@@ -63,7 +64,8 @@ input {
 #navtacular {
     padding-right: 40px;
 }
-/* landing page */
+/* INDEX/VISUALIZATION
+_____________________________________________________________*/
 #summary_box {
     background-color:white;
     border: 3px solid palegoldenrod;
