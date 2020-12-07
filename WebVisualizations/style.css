@@ -44,17 +44,18 @@ input {
 .dropdown-menu a:hover {
     background-color:palegoldenrod;
 }
+
 .navbar {
     background-color: rgb(90, 170, 185, 0.2);
-    height: 55px;
+    height: 50px;
     padding: inherit;
 }
 #btn-nav {
     width: 138px;
     max-height: 58px;
     cursor: pointer;
-    border-radius: 4px;
-    background-color:#F57C00;
+    border-radius: 2px;
+    background-color:#827717;
     overflow: hidden;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 28px;
@@ -108,7 +109,7 @@ input {
     float: right;
 }
 #vbar:hover {
-    background-color: #F57C00 ;
+    background-color: #827717;
     border-radius: 4px;
     padding: 4px;
 }
@@ -129,7 +130,7 @@ _____________________________*/
     height: 50px;
     width: 100%;
     text-align: center;
-    padding-top:10px;
+    padding-top:20px;
     border-top-width: 5px;
     border-top-color: lavenderblush;
 }
