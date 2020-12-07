@@ -88,10 +88,12 @@ input {
     border-radius: 4px;
 }
 #max_temp_img {
-    width: 370px;
-    height: 300px;
+    width: 100%;
     float: left;
     position: center;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
 }
 
 .title {
