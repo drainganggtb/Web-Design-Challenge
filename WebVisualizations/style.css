@@ -17,11 +17,6 @@ button {
     text-align: center;
     align-items: flex-start;
     font: 400 11px system-ui;
-    font-style: normal;
-    font-variant-ligatures: normal;
-    font-variant-caps: normal;
-    font-variant-numeric: normal;
-    font-variant-east-asian: normal;
     font-weight: 400;
     font-stretch: normal;
 }
