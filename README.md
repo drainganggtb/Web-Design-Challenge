@@ -35,5 +35,5 @@ The website must, at the top of every page, have a navigation menu that:
 - Is responsive using media queries.
 
 <h3>Finally, the website must be deployed to GitHub pages.<h3>
-Here is the link to GitHub Pages: <a href="https://drainganggtb.github.io/Web-Design-Challenge/WebVisualizations/index" target="_blank">WebVisualization</a>
+<a href="https://drainganggtb.github.io/Web-Design-Challenge/WebVisualizations/index" target="_blank">Here</a> is the link to GitHub Pages. 
 
