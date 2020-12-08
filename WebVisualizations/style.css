@@ -64,6 +64,9 @@ input {
 #navtacular {
     padding-right: 40px;
 }
+.nav-item {
+    text-align: right;
+}
 
 /* INDEX/VISUALIZATION
 _____________________________________________________________*/
