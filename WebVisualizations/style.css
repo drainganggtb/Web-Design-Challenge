@@ -206,6 +206,13 @@ ________________________________________*/
     #navtacular {
         padding-right: 0px;
     }
+    #nav-link {
+        z-index: 1;
+    }
+    #nicedrops { 
+        right: 0px;
+        left: auto;
+    }
 
 
 @media (max-width: 768px) {
@@ -220,6 +227,7 @@ ________________________________________*/
         position: relative;
         display: flex;
         flex-wrap: wrap;
+        z-index: 1;
     }
     .navbar-brand {
         padding: 8px !important;
