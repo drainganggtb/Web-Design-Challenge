@@ -206,13 +206,10 @@ ________________________________________*/
     #navtacular {
         padding-right: 0px;
     }
-    #nav-link {
+    .dropdown-menu {
         z-index: 1;
     }
-    #nicedrops { 
-        right: 0px;
-        left: auto;
-    }
+    
 
 
 @media (max-width: 768px) {
