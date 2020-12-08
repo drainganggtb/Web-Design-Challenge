@@ -33,6 +33,7 @@ The website must, at the top of every page, have a navigation menu that:
 - Contains the dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page. 
 - Provides two more text links on the right *Comparisons*, which links to the comparisons page, and *Data*, which links to the data page.
 - Is responsive using media queries.
-Finally, the website must be deployed to GitHub pages.
+
+<h3>Finally, the website must be deployed to GitHub pages.<h3>
 Here is the link to GitHub Pages: <a href="https://drainganggtb.github.io/Web-Design-Challenge/WebVisualizations/index" target="_blank">WebVisualization</a>
 
