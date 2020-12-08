@@ -11,7 +11,7 @@ The folder **WebVisualiaztion** functions as a directory, containing the **html*
 <a href="https://drainganggtb.github.io/Web-Design-Challenge/WebVisualizations/index" target="_blank">This page is public through GitHub Pages.</a>
 
 ## Latitude Analysis Dashboard with Attitude
-For this homework, a visualization dashboard website was created to show figures created in the Python API assignment [LINKLINKLINK]. Specifically, these data have to do with weather readings for 500 randomly-generated cities.
+For this homework, a visualization dashboard website was created to show figures created in the <a href="https://github.com/drainganggtb/python-api-challenge" target="_blank">Python API assignment </a>. Specifically, these data have to do with weather readings for 500 randomly-generated cities.
 
 In building this dashboard, individual pages for each plot were made so that navigation between them is possible. These pages contain the visualizations in a larger size along with explanations. Additionally, a landing page, comparison page between all indicators, and raw data page are accessable. 
 
